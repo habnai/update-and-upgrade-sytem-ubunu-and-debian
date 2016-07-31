@@ -2,7 +2,7 @@
 #By Habnai
 #Compatiblity : Debian 6 + | Ubuntu 12.x + | Debian based distro
 #Use at your own risk !
-# in root terminal : wget -O- https://raw.githubusercontent.com/stylersnico/debian-scripts/master/upgrade-and-clean-system.sh | sh
+# in root terminal : wget -O- https://raw.githubusercontent.com/habnai/update-and-upgrade-sytem-ubunu-and-debian/master/up-and-clean-debien-system.sh | sh
 #Tested on Debian 7.5 AMD64
 
 if [ "$(id -u)" != "0" ]; then
